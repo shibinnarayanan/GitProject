@@ -4,7 +4,7 @@ public class MainFun {
 	
 	public void mainFun()
 	{
-		System.out.println("Main function");
+		System.out.println("Feature 1");
 	}
 
 }
